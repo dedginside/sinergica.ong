@@ -1,0 +1,2 @@
+# sinergica.ong
+proyecto inclusivo
